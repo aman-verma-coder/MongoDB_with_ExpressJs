@@ -1,0 +1,19 @@
+.chatbox {
+    background-color: aliceblue;
+    display: inline-block;
+    margin: 0.75rem;
+    padding: 1.25rem;
+    border-radius: 25px;
+}
+
+.chatmsg {
+    background-color: blue;
+    height: 2.5rem;
+    border-radius: 15px;
+    padding: 0.5rem;
+    color: white;
+}
+
+/* .mainbox {
+    display: flex;
+} */
